@@ -3,5 +3,6 @@ public class A {
 
         System.out.println("...11111..");
         System.out.println("qqqqqqqq");
+        System.out.println(".ignore");
     }
 }
