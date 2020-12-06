@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef30273a-b5e4-4187-a1ff-e1b107b0f11b" name="Default Changelist" comment="" />
+    <list default="true" id="ef30273a-b5e4-4187-a1ff-e1b107b0f11b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,20 +53,42 @@
       <option name="presentableId" value="Default" />
       <updated>1607231358798</updated>
       <workItem from="1607231362759" duration="735000" />
+      <workItem from="1607240536908" duration="64000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge branch '11' into main&#10;&#10;# Conflicts:&#10;#&#9;src/A.java">
+      <created>1607240556523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607240556523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch '11' into main&#10;&#10;# Conflicts:&#10;#&#9;src/A.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch '11' into main&#10;&#10;# Conflicts:&#10;#&#9;src/A.java" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Java" timestamp="1607237287908">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Java/0.0.1440.900@0.0.1440.900" timestamp="1607237287908" />
     <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1607231433815">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607231433815" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607234456885">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="303" y="23" key="CommitChangelistDialog2" timestamp="1607240556311">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="303" y="23" key="CommitChangelistDialog2/0.23.1440.798@0.23.1440.798" timestamp="1607240556311" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1607240566810">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607234456885" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1607240566810" />
   </component>
 </project>

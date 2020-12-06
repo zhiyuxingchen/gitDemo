@@ -5,6 +5,6 @@ public class A {
 
         System.out.println("qqqqqqqq");
         System.out.println(".ignore");
-
+        System.out.println("main");
     }
 }
